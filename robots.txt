@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /
-Sitemap: https://janetandderek.com/sitemap.xml
-Host: https://janetandderek.com
